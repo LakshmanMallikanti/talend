@@ -1,0 +1,23 @@
+{
+  "itemId" : "_UV-74GOZEfC0pKdg-5Gy4A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_5jLAsGOYEfC0pKdg-5Gy4A",
+    "parameterList" : [ {
+      "id" : "_PKegUGOZEfC0pKdg-5Gy4A",
+      "name" : "role"
+    }, {
+      "id" : "_PKegUWOZEfC0pKdg-5Gy4A",
+      "name" : "can_read_orders"
+    }, {
+      "id" : "_PKegUmOZEfC0pKdg-5Gy4A",
+      "name" : "can_write_snowflake"
+    }, {
+      "id" : "_PKegU2OZEfC0pKdg-5Gy4A",
+      "name" : "can_log_errors"
+    }, {
+      "id" : "_PKegVGOZEfC0pKdg-5Gy4A",
+      "name" : "can_read_logs"
+    } ]
+  } ]
+}
